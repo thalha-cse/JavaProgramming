@@ -9,10 +9,3 @@ public class NumberOfArray {
         }
     }
 }
-
-/*
-Output:
-The number of elements in the array : 5
-The array elements are : 
-1 2 3 4 5
-*/
