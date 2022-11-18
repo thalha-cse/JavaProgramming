@@ -3,7 +3,7 @@ import java.util.Scanner;
         Scanner scan;
 	int num;
 	void getVal(){
-                     System.out.println("Binary to Octal");
+             System.out.println("Binary to Octal");
 	    scan = new Scanner(System.in);
  	    System.out.println("\nEnter the number :");
 	    num = Integer.parseInt(scan.nextLine(), 2);
