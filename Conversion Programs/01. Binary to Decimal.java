@@ -13,7 +13,7 @@ public class Binary_Decimal {
         System.out.println("Decimal value is : "+decimal);
     }
 }
-class MainClas{
+class binarydecimal{
     public static void main(String[] args){
         Binary_Decimal obj = new Binary_Decimal();
         obj.getVal();
