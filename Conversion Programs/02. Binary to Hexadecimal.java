@@ -13,7 +13,7 @@ public class Binary_Hexadecimal {
         System.out.println("HexaDecimal Value is : "+hexa);
     }
 }
-class MainClass{
+class binaryhexa{
     public static void main(String[] args){
         Binary_Hexadecimal obj = new Binary_Hexadecimal();
         obj.get();
